@@ -1,0 +1,1 @@
+﻿使用说明：将 resources_zh_CN_*.jar ，放到软件安装路径下的 lib 目录中，重启软件即可 注意是 lib 不是 bin
